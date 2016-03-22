@@ -1,3 +1,5 @@
+# Emacs
+.emacs*
 # Object files
 *.o
 *.ko
